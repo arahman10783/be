@@ -2,7 +2,7 @@ frontend:
     path: ./
     publish: ""
     scripts:
-        build: npm run build
+        start: npm start
         deploy: npm install
 name: be
 region: us-east-1
